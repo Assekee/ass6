@@ -135,7 +135,7 @@ class LibraryManagementFacade {
     }
 }
 
-public class LibraryManagementFacadeTest {
+public class Ex_1 {
     public static void main(String[] args) {
         LibraryManagementFacade facade = new LibraryManagementFacade();
 
